@@ -1,0 +1,2 @@
+# TareaHerencia
+Ejemplo de Herencia
